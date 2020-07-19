@@ -5,15 +5,15 @@
 <p align="center"> IT Manager | NodeJs | Java | ReactJs | React Native </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/ravel-mello/">
+<a href="https://linkedin.com/in/ravel-mello/" target="_blank">
 <img 
 src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin"/> 
 </a>
-<a href="https://github.com/ravelmello">
+<a href="https://github.com/ravelmello" target="_blank">
 <img 
 src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github"/> 
 </a>
-<a href="https://ravelmello.github.io">
+<a href="https://ravelmello.github.io" target="_blank">
 <img 
 src="https://img.shields.io/badge/-Personal Site-red?style=plastic&logo=superuser"/> 
 </a>
