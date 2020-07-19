@@ -1,4 +1,39 @@
-### Hi there 👋
+<p align="center">
+	<img src="https://github.com/ravelmello/ravelmello/blob/master/ravel.png?raw=true" width="700"/>
+ </p>
+ 
+<p align="center"> IT Manager | NodeJs | Java | ReactJs | React Native </p>
+
+<p align="center">
+<a href="https://linkedin.com/in/ravel-mello/">
+<img 
+src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin"/> 
+</a>
+<a href="https://github.com/ravelmello">
+<img 
+src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github"/> 
+</a>
+<a href="https://ravelmello.github.io">
+<img 
+src="https://img.shields.io/badge/-Personal Site-red?style=plastic&logo=superuser"/> 
+</a>
+</p>
+
+<p align="center">
+  
+- 🔭 I’m currently working on IT Management 
+- 🌱 I’m currently learning NodeJS | Java | React
+- 👯 I’m looking to collaborate on NodeJS | Java | React projects
+- 🤔 I’m looking for help with JavaScript's comunity
+- 📫 How to reach me: at ravelmello3@gmail.com
+- 😄 Pronouns: Hardworking + studious = The best recipe for new knowledments
+- ⚡ Fun fact: Sometimes I mistake spam for <span> ^^
+  
+
+So, that's me !
+
+</p>  
+
 
 <!--
 **ravelmello/ravelmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
