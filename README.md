@@ -27,7 +27,7 @@ src="https://img.shields.io/badge/-Personal Site-red?style=plastic&logo=superuse
 - 🤔 I’m looking for help with JavaScript's comunity
 - 📫 How to reach me: at ravelmello3@gmail.com
 - 😄 Pronouns: Hardworking + studious = The best recipe for new knowledments
-- ⚡ Fun fact: Sometimes I mistake spam for <span> ^^
+- ⚡ Fun fact: Sometimes I mistake < span > for < spam >  ^^
   
 
 So, that's me !
