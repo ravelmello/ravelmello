@@ -1,6 +1,7 @@
 <p align="center">
 	<img src="https://github.com/ravelmello/ravelmello/blob/master/ravel.png?raw=true" width="700"/>
  </p>
+
  
 <p align="center"> IT Manager | NodeJs | Java | ReactJs | React Native </p>
 
@@ -19,6 +20,7 @@ src="https://img.shields.io/badge/-Personal Site-red?style=plastic&logo=superuse
 </a>
 </p>
 
+
 <p align="center">
   
 - 🔭 I’m currently working on IT Management 
@@ -33,6 +35,13 @@ src="https://img.shields.io/badge/-Personal Site-red?style=plastic&logo=superuse
 So, that's me !
 
 </p>  
+
+
+<p> My stats </p>
+
+![Ravel's github stats](https://github-readme-stats.vercel.app/api?username=ravelmello&show_icons=true&theme=dracula)
+
+
 
 
 <!--
