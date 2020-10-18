@@ -36,14 +36,13 @@ So, that's me !
 
 </p>  
 
+<div>
+	
+My stats | My Top Languages
+:----------:|:---------:
+|![Ravel's github stats](https://github-readme-stats.vercel.app/api?username=ravelmello&show_icons=true&theme=white) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelmello&layout=compact)](https://github.com/ravelmello/github-readme-stats) 
 
-<p> My stats </p>
 
-![Ravel's github stats](https://github-readme-stats.vercel.app/api?username=ravelmello&show_icons=true&theme=white)
-
-<p> My top languages </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelmello&layout=compact)](https://github.com/ravelmello/github-readme-stats)
 
 
 <!--
