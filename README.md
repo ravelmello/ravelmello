@@ -23,7 +23,7 @@ src="https://img.shields.io/badge/-Personal Site-red?style=plastic&logo=superuse
 
 <p align="center">
   
-- 🔭 I’m currently working on IT Management 
+- 🔭 I’m currently working on Software Architecture 
 - 🌱 I’m currently learning NodeJS | Java | React
 - 👯 I’m looking to collaborate on NodeJS | Java | React projects
 - 🤔 I’m looking for help with JavaScript's comunity
