@@ -43,7 +43,10 @@ My stats | My Top Languages
 |![Ravel's github stats](https://github-readme-stats.vercel.app/api?username=ravelmello&show_icons=true&theme=white) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelmello&layout=compact)](https://github.com/ravelmello/github-readme-stats) 
 
 
-
+<p align="center">
+	  Visitors <br>
+<img src="https://profile-counter.glitch.me/ravelmello/count.svg" />
+</p>	  
 
 <!--
 **ravelmello/ravelmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
