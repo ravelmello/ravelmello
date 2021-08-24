@@ -28,7 +28,7 @@ src="https://img.shields.io/badge/-Personal Site-red?style=plastic&logo=superuse
 - 👯 I’m looking to collaborate on NodeJS | Java | React projects
 - 🤔 I’m looking for help with JavaScript's comunity
 - 📫 How to reach me: at ravelmello3@gmail.com
-- 😄 Pronouns: Hardworking + studious = The best recipe for new knowledments
+- 😄 Pronouns: Hardworking + studious = The best recipe for new Knowledge
 - ⚡ Fun fact: Sometimes I mistake < span > for < spam >  ^^
   
 
