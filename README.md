@@ -2,9 +2,6 @@
 	<img src="https://github.com/ravelmello/ravelmello/blob/master/ravel.png?raw=true" width="700"/>
  </p>
 
- 
-<p align="center"> IT Manager | NodeJs | Java | ReactJs | React Native </p>
-
 <p align="center">
 <a href="https://www.instagram.com/ravelmello3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ravel-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
