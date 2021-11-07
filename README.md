@@ -14,7 +14,8 @@ src="https://img.shields.io/badge/personal%20site-ccccc5?style=for-the-badge&log
 </a>
 </p>
 
-
+** About me**
+	
 <p align="center">
   
 - 🔭 I’m currently working on Software Architecture 
