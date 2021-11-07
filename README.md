@@ -6,17 +6,14 @@
 <p align="center"> IT Manager | NodeJs | Java | ReactJs | React Native </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/ravel-mello/" target="_blank">
-<img 
-src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=linkedin"/> 
-</a>
+<a href="https://www.instagram.com/ravelmello3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ravel-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/ravelmello" target="_blank">
-<img 
-src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github"/> 
-</a>
+<a href="mailto:ravelmello3@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ravelmello3@gmail.com"></a>
 <a href="https://ravelmello.github.io" target="_blank">
 <img 
-src="https://img.shields.io/badge/-Personal Site-red?style=plastic&logo=superuser"/> 
+src="https://img.shields.io/badge/personal%20site-ccccc5?style=for-the-badge&logo=superuser&logoColor=red"/> 
 </a>
 </p>
 
