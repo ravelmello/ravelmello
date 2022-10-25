@@ -18,7 +18,7 @@ src="https://img.shields.io/badge/personal%20site-ccccc5?style=for-the-badge&log
 	
 <p align="center">
   
-- 🔭 I’m currently working on Software Architecture 
+- 🔭 I’m currently working on Software Development in Java! 
 - 🌱 I’m currently learning NodeJS | Java | React
 - 👯 I’m looking to collaborate on NodeJS | Java | React projects
 - 🤔 I’m looking for help with JavaScript's comunity
