@@ -35,7 +35,7 @@ So, that's me !
 	
 My stats | My Top Languages 
 :----------:|:---------:
-|![Ravel's github stats](https://github-readme-stats.vercel.app/api?username=ravelmello&show_icons=true&theme=white) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelmello&layout=compact)](https://github.com/ravelmello/github-readme-stats) 
+|![Ravel's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ravelmello&show_icons=true&theme=white) |[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ravelmello&layout=compact)](https://github.com/ravelmello/github-readme-stats) 
 	
 	
 **My Skills**	
