@@ -1,18 +1,5 @@
-<p align="center">
-	<img src="https://github.com/ravelmello/ravelmello/blob/master/ravel.png?raw=true" width="700"/>
- </p>
 
-<p align="center">
-<a href="https://www.instagram.com/ravelmello3/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ravel-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/ravelmello" target="_blank">
-<a href="mailto:ravelmello3@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ravelmello3@gmail.com"></a>
-<a href="https://ravelmello.github.io" target="_blank">
-<img 
-src="https://img.shields.io/badge/personal%20site-ccccc5?style=for-the-badge&logo=superuser&logoColor=red"/> 
-</a>
-</p>
+
 
 **About me**
 	
@@ -27,7 +14,19 @@ src="https://img.shields.io/badge/personal%20site-ccccc5?style=for-the-badge&log
 - ⚡ Fun fact: Sometimes I mistake < span > for < spam >  ^^
   
 
-So, that's me !
+So, find me: 
+
+<p align="center">
+<a href="https://www.instagram.com/ravelmellodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ravel-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/ravelmello" target="_blank">
+<a href="mailto:ravelmello3@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ravelmello3@gmail.com"></a>
+<a href="https://ravelmello.github.io" target="_blank">
+<img 
+src="https://img.shields.io/badge/personal%20site-ccccc5?style=for-the-badge&logo=superuser&logoColor=red"/> 
+</a>
+</p>
 
 </p>  
 
@@ -58,14 +57,14 @@ My stats | My Top Languages
 </p>
 	
 
-<p align="center">
+<!--<p align="center">
 	  Visitors <br>
 <img src="https://profile-counter.glitch.me/ravelmello/count.svg" />
-</p>	  
+</p> -->	  
 	
 
 	
-<!-- ![Snake animation](https://github.com/ravelmello/ravelmello/blob/output/github-contribution-grid-snake.svg) -->
+ ![Snake animation](https://github.com/ravelmello/ravelmello/blob/output/github-contribution-grid-snake.svg) 
 
 <!--
 **ravelmello/ravelmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
