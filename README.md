@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravel-mello)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravel-mello/?isSelfProfile=true)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/ravelmello)
 [![Email](https://img.shields.io/badge/Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:ravelmello3@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-blue?style=flat&logo=chrome)](https://ravelmello.github.io)
@@ -67,29 +67,38 @@ Passionate **software engineer** with deep expertise in leveraging AI tools and 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravelmello&show_icons=true&theme=github_dark&hide_border=true&card_width=400)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ravelmello&theme=github-dark&hide_border=true)](https://github.com/ravelmello)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelmello&layout=compact&theme=github_dark&hide_border=true&card_width=400)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravelmello&theme=github-dark&hide_border=true&area=true)](https://github.com/ravelmello)
 
 </div>
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Featured Projects
 
-> *Featured projects showcasing modern development practices and AI-assisted development workflows*
+> *Public repositories showcasing modern development practices and architecture patterns*
 
-- **[Habita AI](https://github.com/ravelmello/habita-ai)** – Spring Boot + React application with modern architecture
-- **[Investment API](https://github.com/ravelmello/investimentos-api)** – NestJS microservice architecture with TypeScript
-- **[Card Payment Sample](https://github.com/ravelmello/card-payment-sample-java)** – Payment processing with Spring framework
+- **[Investment API](https://github.com/ravelmello/investimentos-api)** – NestJS microservice architecture with TypeScript, demonstrating scalable backend design
+- **[Card Payment Sample](https://github.com/ravelmello/card-payment-sample-java)** – Payment processing system with Spring framework, showing enterprise-grade patterns
 
 ---
 
-## 💡 Expertise Highlights
+## 💡 Core Competencies
+
+| Category | Expertise |
+|----------|-----------|
+| **Backend Development** | Spring Boot, NestJS, RESTful APIs, Microservices Architecture |
+| **Frontend Development** | Angular, React, TypeScript, Responsive Design |
+| **Database & Persistence** | PostgreSQL, JPA/Hibernate, Query Optimization |
+| **AI-Driven Development** | Claude, ChatGPT, GitHub Copilot for code acceleration |
+| **DevOps & Infrastructure** | Docker, Kubernetes, CI/CD Pipelines, Linux |
+| **Software Architecture** | SOLID Principles, Design Patterns, Scalable Systems |
+| **Testing & QA** | Unit Tests, E2E Testing (Cypress), Code Reviews |
 
 ✅ **Full-Stack Development** – End-to-end feature development from API design to UI implementation  
 ✅ **AI-Powered Coding** – Leveraging LLMs to boost productivity and code quality  
@@ -109,6 +118,6 @@ I’m always interested in discussing:
 
 <div align="center">
 
-💌 [Email me](mailto:ravelmello3@gmail.com) | 💼 [Connect on LinkedIn](https://www.linkedin.com/in/ravel-mello) | 🌐 [Visit my portfolio](https://ravelmello.github.io)
+💌 [Email me](mailto:ravelmello3@gmail.com) | 💼 [Connect on LinkedIn](https://www.linkedin.com/in/ravel-mello/?isSelfProfile=true) | 🌐 [Visit my portfolio](https://ravelmello.github.io)
 
 </div>
