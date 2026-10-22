@@ -73,7 +73,7 @@ Passionate **software engineer** with deep expertise in leveraging AI tools and 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ravelmello&theme=github-dark&hide_border=true)](https://github.com/ravelmello)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravelmello&theme=github-dark&hide_border=true&area=true)](https://github.com/ravelmello)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelmello&theme=github_dark&hide_border=true&layout=compact&card_width=400)
 
 </div>
 
