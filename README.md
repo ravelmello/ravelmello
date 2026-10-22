@@ -1,68 +1,114 @@
 
+# Ravel Mello
 
+> **Software Engineer** | **AI-Assisted Development** | **Full-Stack Development**
 
-**About me**
-	
-<p align="center">
-  
-- 🔭 I’m currently working on Software Development in Java! 
-- 🌱 I’m currently learning NodeJS | Java | React
-- 👯 I’m looking to collaborate on NodeJS | Java | React projects
-- 🤔 I’m looking for help with JavaScript's and Java's community
-- 📫 How to reach me: at ravelmello3@gmail.com
-- 😄 Pronouns: Hardworking + studious = The best recipe for new Knowledge
+<div align="center">
 
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravel-mello)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/ravelmello)
+[![Email](https://img.shields.io/badge/Email-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:ravelmello3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal%20Site-blue?style=flat&logo=chrome)](https://ravelmello.github.io)
 
-So, find me: 
+</div>
 
-<p align="center">
-<a href="https://www.instagram.com/ravelmellodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/ravel-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/ravelmello" target="_blank">
-<a href="mailto:ravelmello3@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ravelmello3@gmail.com"></a>
-<a href="https://ravelmello.github.io" target="_blank">
-<img 
-src="https://img.shields.io/badge/personal%20site-ccccc5?style=for-the-badge&logo=superuser&logoColor=red"/> 
-</a>
-</p>
+---
 
-</p>  
+## 👨‍💻 About Me
 
-<div>
-	
-My stats | My Top Languages 
-:----------:|:---------:
-|![Ravel's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ravelmello&show_icons=true&theme=white) |[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ravelmello&layout=compact)](https://github.com/ravelmello/github-readme-stats) 
-	
-	
-**My Skills**	
+Passionate **software engineer** with deep expertise in leveraging AI tools and technologies to accelerate development cycles and improve code quality. Experienced in building scalable applications across **Java, TypeScript, and modern frameworks**. I embrace AI-driven development practices using tools like **Claude, ChatGPT, and GitHub Copilot** to enhance productivity while maintaining code excellence.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,angular,bootstrap,cypress,express,nodejs,java,js,ubuntu,maven,nestjs,postgres,spring,ts,html" />
-  </a>
-</p>
-	
+### 🎯 Core Focus Areas
 
-<!--<p align="center">
-	  Visitors <br>
-<img src="https://profile-counter.glitch.me/ravelmello/count.svg" />
-</p> -->	  
-	
+- 🤖 **AI-Assisted Development** – Proficiently using LLMs for code generation, architecture design, and problem-solving
+- ⚙️ **Backend Development** – Spring Boot, NestJS, REST APIs, Microservices
+- 🎨 **Frontend Development** – Angular, React, TypeScript
+- 🗄️ **Database Design** – PostgreSQL, relational modeling, optimization
+- 🐳 **DevOps & Infrastructure** – Docker, Kubernetes, CI/CD pipelines
+- 🧪 **Quality Assurance** – Unit testing, E2E testing, Code reviews
 
-<!--
-**ravelmello/ravelmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Technical Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+### Databases & Data Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### Testing & QA
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+
+### AI & Development Tools
+![Claude](https://img.shields.io/badge/Claude%20AI-Expert-ff6b00?style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-Expert-10a37f?style=flat)
+![GitHub%20Copilot](https://img.shields.io/badge/GitHub%20Copilot-Proficient-6e5494?style=flat)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravelmello&show_icons=true&theme=github_dark&hide_border=true&card_width=400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravelmello&layout=compact&theme=github_dark&hide_border=true&card_width=400)
+
+</div>
+
+---
+
+## 🚀 Highlighted Projects
+
+> *Featured projects showcasing modern development practices and AI-assisted development workflows*
+
+- **[Habita AI](https://github.com/ravelmello/habita-ai)** – Spring Boot + React application with modern architecture
+- **[Investment API](https://github.com/ravelmello/investimentos-api)** – NestJS microservice architecture with TypeScript
+- **[Card Payment Sample](https://github.com/ravelmello/card-payment-sample-java)** – Payment processing with Spring framework
+
+---
+
+## 💡 Expertise Highlights
+
+✅ **Full-Stack Development** – End-to-end feature development from API design to UI implementation  
+✅ **AI-Powered Coding** – Leveraging LLMs to boost productivity and code quality  
+✅ **Scalable Architecture** – Microservices, layered architecture, design patterns  
+✅ **DevOps Mindset** – Containerization, orchestration, CI/CD automation  
+✅ **Clean Code** – SOLID principles, best practices, maintainability-first approach  
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always interested in discussing:
+- **Innovative AI applications** in software development
+- **Scalable backend solutions** and architecture patterns
+- **Modern frontend frameworks** and best practices
+- **Open-source contributions** and collaborative projects
+
+<div align="center">
+
+💌 [Email me](mailto:ravelmello3@gmail.com) | 💼 [Connect on LinkedIn](https://www.linkedin.com/in/ravel-mello) | 🌐 [Visit my portfolio](https://ravelmello.github.io)
+
+</div>
